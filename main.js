@@ -3,7 +3,6 @@ let _loadedImages = 0;
 const _imageArray = new Array(
     'aloneShine.png',
     'blackground.png',
-    'bodylessCharacter.png',
     'finalProduct.png',
     'orangeGradient.png',
     'orangeBanner.png',
